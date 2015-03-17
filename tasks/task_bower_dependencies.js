@@ -53,7 +53,7 @@ module.exports = function (grunt) {
                                             });
                                             return !found;
                                         }
-                                        return false;
+                                        return true;
                                     });
                                 }
                             }

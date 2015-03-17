@@ -1,7 +1,7 @@
 {
   "name": "grunt-task-bower-dependencies",
   "description": "Automatically resolves the bower asset dependencies to be used in bower concat for JS and CSS",
-  "version": "0.1.0",
+    "version": "0.1.1",
   "homepage": "https://github.com/pcfreak30/grunt-task-bower-dependencies",
   "author": {
     "name": "Derrick Hammer",
